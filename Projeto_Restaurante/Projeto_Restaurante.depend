@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1491308370 source:c:\users\alisson.alisson-pc\documents\universidade\2016.2(em 2017.1)\laboratorio de lp1(c++)\git\roteiro06\projeto_restaurante\main.cpp
+	<iostream>
+	"RestauranteCaseiro.h"
+
+1491308508 source:c:\users\alisson.alisson-pc\documents\universidade\2016.2(em 2017.1)\laboratorio de lp1(c++)\git\roteiro06\projeto_restaurante\mesaderestaurante.cpp
+	"MesaDeRestaurante.h"
+	<vector>
+
+1491308120 c:\users\alisson.alisson-pc\documents\universidade\2016.2(em 2017.1)\laboratorio de lp1(c++)\git\roteiro06\projeto_restaurante\mesaderestaurante.h
+	<vector>
+	"Pedido.h"
+
+1491273252 source:c:\users\alisson.alisson-pc\documents\universidade\2016.2(em 2017.1)\laboratorio de lp1(c++)\git\roteiro06\projeto_restaurante\pedido.cpp
+	"Pedido.h"
+
+1491272966 c:\users\alisson.alisson-pc\documents\universidade\2016.2(em 2017.1)\laboratorio de lp1(c++)\git\roteiro06\projeto_restaurante\pedido.h
+	<string>
+
+1491308518 source:c:\users\alisson.alisson-pc\documents\universidade\2016.2(em 2017.1)\laboratorio de lp1(c++)\git\roteiro06\projeto_restaurante\restaurantecaseiro.cpp
+	"RestauranteCaseiro.h"
+	<vector>
+
+1491307749 c:\users\alisson.alisson-pc\documents\universidade\2016.2(em 2017.1)\laboratorio de lp1(c++)\git\roteiro06\projeto_restaurante\restaurantecaseiro.h
+	<vector>
+	"MesaDeRestaurante.h"
+
