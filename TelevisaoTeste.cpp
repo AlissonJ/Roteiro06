@@ -8,6 +8,7 @@ tv1.setTv(10,10);
 tv2.setTv(10,10);
 tv1.setCanal("aumentar");
 tv1.setVolume("diminuir");
+cout<<"Televisao 2"<<endl;
 tv2.setCanal("trocar");
 tv2.setVolume("diminuir");
 cout<<"Tv1 Canal: "<<tv1.getCanal()<<" Volume: "<<tv1.getVolume()<<endl;
